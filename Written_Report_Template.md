@@ -7,8 +7,10 @@
 The purpose of the project is to determine the factors which influence the success of kickstarter campaigns for the theater category.  Using past data for kickstarter campaigns, this report will provide analysis of key factors which contribute to successful campaigns.
 
 ## Analysis and Challenges  
-## Analysis
+### Analysis
 This analysis focuses on the influence of the time of year that theater projects are launched.  The goal is to determine if the time of year influences the success of kickstarter campaigns for theater projects.  The report provides additional analysis for the plays category with the objective of determining the impact of goal amounts to the success of campaigns for plays.
+
+### Challenges
 
 ### Analysis of Outcomes Based on Launch Date
 
