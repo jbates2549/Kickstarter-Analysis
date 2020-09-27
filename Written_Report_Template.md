@@ -1,10 +1,13 @@
-# Kickstarting with Excel
+# Kickstarter Analysis
 
 ## Overview of Project
+  This project provides statistical analysis of kickstarter campaigns for theater projects with specific focus on plays.  The report evaluates different criteria which can influence the success of the campaign including launch date and fundraising goal. 
 
 ### Purpose
+The purpose of the project is to determine the factors which influence the success of kickstarter campaigns for the theater category.  Using past data for kickstarter campaigns, this report will provide analysis of key factors which contribute to successful campaigns.
 
-## Analysis and Challenges
+## Analysis and Challenges  
+This analysis focuses on the influence of the time of year that theater projects are launched.  The goal is to determine if the time of year influences the success of kickstarter campaigns for theater projects.  The report provides additional analysis for the plays category with the objective of determining the impact of goal amounts to the success of campaigns for plays.
 
 ### Analysis of Outcomes Based on Launch Date
 
