@@ -1,4 +1,4 @@
-# Kickstarter Analysis
+# Kickstarter Analysis of Theater Projects
 
 ## Overview of Project
   This project provides statistical analysis of kickstarter campaigns for theater projects with specific focus on plays.  The report evaluates different criteria which can influence the success of the campaign including launch date and fundraising goal. 
