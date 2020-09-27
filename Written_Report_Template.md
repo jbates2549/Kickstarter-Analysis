@@ -27,7 +27,7 @@ In this analyis we review the impact of fundraising goal amount on the success o
 
 ### Challenges and Difficulties Encountered
 
-In the analysis of outcomes based on fundraising goals, the number of samples tended to decline as goal amounts increased.  The smaller sample sizes tend to reduce the predictive accuracy of the report.  To provide additional goal amount analysis we provide additional analysis for the entire theater category to increase the sample size.
+In the analysis of outcomes based on fundraising goals, the number of samples tended to decline as goal amounts increased.  The smaller sample sizes tend to reduce the predictive accuracy of the report.  To provide additional goal amount analysis we provide additional analysis for the entire theater category to increase the sample size.  The below chart showing outcomes based on fundraising goal for the entire theater group generally confirms the findings of the plays subcategory.
 
 ![image_name](https://github.com/jbates2549/Kickstarter-Analysis/blob/master/Outcome_vs_Goal_Theater.png)
 
@@ -42,7 +42,13 @@ There is a smaller positive spike in successful campaigns in the months of Febru
 
 ### Conclusions from Outcomes Based Fundraising Goals
 
-The Months of May 
-- What are some limitations of this dataset?
+From the analysis of goal amounts for plays we can conclude that low budget, less than $1,000, campaigns are, on average, the most successful.  There is also a high correlation of success for campaigns in the $35,000 to $50,000 range.  Campaigns over $50,000 seem particularly risky and should be avoided.
 
-- What are some other possible tables and/or graphs that we could create?
+As stated in the challenges section, the data set is limited and samples decline as goal amounts increase.  We should be somewhat suspect of the data for the higher dollar campaigns.  
+
+
+### Further Analysis
+Similar analysis can be performed based on country location or region to see if there is a correlation between location and the success of the campaign.  We can also look at the number of backers and average donations to further analyze campaign success.
+
+
+
