@@ -10,16 +10,17 @@ The purpose of the project is to determine the factors which influence the succe
 ### Analysis
 This analysis focuses on the influence of the time of year that theater projects are launched.  The goal is to determine if the time of year influences the success of kickstarter campaigns for theater projects.  The report provides additional analysis for the plays category with the objective of determining the impact of goal amounts to the success of campaigns for plays.
 
-### Challenges
-In the analysis of outcomes based on fundraising goals, the number of samples tended to decline as goal amounts increased.  The smaller sample sizes tend to reduce the predictive accuracy of the report.  To provide additional goal amount analysis we provide additional analysis for the entire theater category to increase the sample size.
-
 ### Analysis of Outcomes Based on Launch Date
 
+![image_name](https://github.com/jbates2549/Kickstarter-Analysis/blob/master/Parent%20Category%20Outcomes.png)
 
 
 ### Analysis of Outcomes Based on Goals
 
+
 ### Challenges and Difficulties Encountered
+
+In the analysis of outcomes based on fundraising goals, the number of samples tended to decline as goal amounts increased.  The smaller sample sizes tend to reduce the predictive accuracy of the report.  To provide additional goal amount analysis we provide additional analysis for the entire theater category to increase the sample size.
 
 ## Results
 
