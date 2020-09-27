@@ -12,7 +12,7 @@ This analysis focuses on the influence of the time of year that theater projects
 
 ### Analysis of Outcomes Based on Launch Date
 
-![image_name](https://github.com/jbates2549/Kickstarter-Analysis/blob/master/Parent%20Category%20Outcomes.png)
+![image_name](https://github.com/jbates2549/Kickstarter-Analysis/blob/master/Theater_Outcomes-vsLaunch.png)
 
 
 ### Analysis of Outcomes Based on Goals
