@@ -12,6 +12,8 @@ This analysis focuses on the influence of the time of year that theater projects
 
 ### Analysis of Outcomes Based on Launch Date
 The chart below shows successful and failed theater campaigns based on launch date.  We can see that successful campaigns peak in the month of May followed by the months of June and July.  The failed campaigns remain fairly consistant, varying between 31 and 52 for each month.  Although there are small spikes in the months of May and October, the failure rate is relatively consistent.  The differences in successful campaigns vary much more with a high of 111 successful campaigns in May and a low number, 37 in December.
+
+
 ![image_name](https://github.com/jbates2549/Kickstarter-Analysis/blob/master/Theater_Outcomes-vsLaunch.png)
 
 
@@ -24,7 +26,8 @@ In the analysis of outcomes based on fundraising goals, the number of samples te
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### Conclusions from Outcomes Based on Launch Date
+
 The Months of May through June are the best months to launch a kickstarter campaign for theater projects  These months produce the largest variance between successful and failed campaigns.  We recommend that kickstarter campaigns for theater projects be launched during these months.
 
 There is a smaller positive spike in successful campaigns in the months of February.  This month can be considered a secondary target to the Summer months for launch date.  We However these spikes are matched by similar spikes in failed campaigns 
